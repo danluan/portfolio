@@ -679,7 +679,7 @@ const pt: Content = {
     ],
   },
   highlights: {
-    heading: { id: "highlights", label: "Destaques", title: ["O que eu já *construí*."] },
+    heading: { id: "highlights", label: "Destaques", title: ["Um pouco do meu *trabalho*."] },
     items: [
       {
         featured: true,
