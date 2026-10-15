@@ -180,7 +180,7 @@ const HTML_LANG: Record<Locale, string> = { en: "en", pt: "pt-BR" };
 const identity = {
   name: "Daniel Luan Lourenço de Lima",
   shortName: "Daniel Luan",
-  logo: "daniel.luan",
+  logo: "dll",
   email: EMAIL,
   linkedin: { label: "LinkedIn", url: LINKEDIN_URL },
   github: { label: "GitHub", url: GITHUB_URL },
@@ -417,7 +417,7 @@ const en: Content = {
   ],
   hero: {
     tag: "Full Stack Developer · Parnamirim, RN · Brazil",
-    title: ["I build the backend.", "I design the frontend.", "I ship *both*."],
+    title: ["*D*aniel *L*uan *L*ourenço"],
     sub: "**Full Stack Developer** at IMD/UFRN – GERTEC. I work with Node.js, Java and Spring Boot on the backend, React and Angular on the frontend, and AWS in the cloud, with a focus on performance, stability and user experience.",
     actions: [
       { label: "See experience", href: "#experience", variant: "primary", external: false },
@@ -563,7 +563,6 @@ const en: Content = {
         bullets: [
           "Took part in research on **NanoSat monitoring** using **ESP32-CAM**.",
           "Organized workshops on assembling an **educational CubeSat** with **Arduino Mega**, sensors and real-time communication via **Zigbee**.",
-          "Developed educational games with **HTML**, **CSS** and **JavaScript** for 6th to 9th grade students.",
           "Gave seminars and presentations on aerospace technologies, communication networks and embedded systems.",
         ],
       },
@@ -652,11 +651,7 @@ const pt: Content = {
   ],
   hero: {
     tag: "Desenvolvedor Fullstack · Parnamirim, RN · Brasil",
-    title: [
-      "Eu construo o backend.",
-      "Eu desenho o frontend.",
-      "Eu entrego os *dois*.",
-    ],
+    title: ["*D*aniel *L*uan *L*ourenço"],
     sub: "**Desenvolvedor Fullstack** no IMD/UFRN – GERTEC. Trabalho com Node.js, Java e Spring Boot no backend, React e Angular no frontend e AWS na nuvem, com foco em performance, estabilidade e experiência do usuário.",
     actions: [
       { label: "Ver experiência", href: "#experience", variant: "primary", external: false },
@@ -772,7 +767,7 @@ const pt: Content = {
           "Atuei no **acesso remoto de terminais de pagamento**, com foco em melhoria de performance, estabilidade e experiência do usuário.",
           "Trabalhei no desenvolvimento do **acesso remoto simultâneo** utilizando **Node.js, Express, Kotlin, AWS Lambda e AWS Chime**. Através de um sistema de cache no Redis, é possível gerenciar múltiplos acessos simultâneos com baixa latência e alta responsividade da plataforma.",
           "Implementei soluções nativas de compartilhamento de vídeo em dispositivos Samsung usando a **lib Knox e JNI**, melhorando drasticamente a performance e qualidade da transmissão comparada com meios tradicionais.",
-          "Desenvolvi um sistema para gerenciar APNs de terminais usando **Express, Angular e AWS IoT Core**, fazendo uma integração com o Gertec Box instalado nos terminais.",
+          "Desenvolvi um módulo para gerenciar APNs de terminais usando **Express, Angular e AWS IoT Core**, fazendo uma integração com o Gertec Box instalado nos terminais.",
           "Construí **componentes reutilizáveis** e contribuí para a padronização do desenvolvimento, incentivando reuso de código e boas práticas de engenharia.",
         ],
       },
@@ -806,7 +801,6 @@ const pt: Content = {
         bullets: [
           "Participei de pesquisas voltadas ao **monitoramento de NanoSats** com uso de **ESP32-CAM**.",
           "Organizei workshops para montagem de **CubeSat educacional** com **Arduino Mega**, sensores e comunicação em tempo real via **Zigbee**.",
-          "Desenvolvi jogos educacionais com **HTML**, **CSS** e **JavaScript** para alunos do 6º ao 9º ano.",
           "Realizei seminários e apresentações sobre tecnologias aeroespaciais, redes de comunicação e sistemas embarcados.",
         ],
       },
