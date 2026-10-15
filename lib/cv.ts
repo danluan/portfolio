@@ -417,7 +417,7 @@ const en: Content = {
   ],
   hero: {
     tag: "Full Stack Developer · Parnamirim, RN · Brazil",
-    title: ["Daniel Luan Lourenço"],
+    title: ["I build the backend.", "I design the frontend.", "I ship *both*."],
     sub: "**Full Stack Developer** at IMD/UFRN – GERTEC. I work with Node.js, Java and Spring Boot on the backend, React and Angular on the frontend, and AWS in the cloud, with a focus on performance, stability and user experience.",
     actions: [
       { label: "See experience", href: "#experience", variant: "primary", external: false },
@@ -652,7 +652,11 @@ const pt: Content = {
   ],
   hero: {
     tag: "Desenvolvedor Fullstack · Parnamirim, RN · Brasil",
-    title: ["Daniel Luan Lourenço"],
+    title: [
+      "Eu construo o backend.",
+      "Eu desenho o frontend.",
+      "Eu entrego os *dois*.",
+    ],
     sub: "**Desenvolvedor Fullstack** no IMD/UFRN – GERTEC. Trabalho com Node.js, Java e Spring Boot no backend, React e Angular no frontend e AWS na nuvem, com foco em performance, estabilidade e experiência do usuário.",
     actions: [
       { label: "Ver experiência", href: "#experience", variant: "primary", external: false },
